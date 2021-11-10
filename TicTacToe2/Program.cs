@@ -9,7 +9,7 @@ namespace TicTacToe2
             Console.WriteLine("Lovre ima x pobjeda i y poraza!");
             Console.WriteLine("Bartol ima z pobjeda i n poraza!");
 
-            Console.WriteLine(" x | x |   ");
+            Console.WriteLine(" x | x | 0 ");
             Console.WriteLine("   | 0 |   ");
             Console.WriteLine(" 0 |   | x ");
         }

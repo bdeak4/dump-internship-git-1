@@ -10,7 +10,7 @@ namespace TicTacToe1
             Console.WriteLine("Bartol ima z pobjeda i n poraza!");
 
             Console.WriteLine(" x | 0 |   ");
-            Console.WriteLine("   |   |   ");
+            Console.WriteLine("   | 0 |   ");
             Console.WriteLine("   |   |   ");
         }
     }

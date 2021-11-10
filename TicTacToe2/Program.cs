@@ -6,8 +6,8 @@ namespace TicTacToe2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Lovre ima x pobjeda i y poraza!");
-            Console.WriteLine("Bartol ima z pobjeda i n poraza!");
+            Console.WriteLine("Lovre ima 0 pobjeda i 3 poraza!");
+            Console.WriteLine("Bartol ima 3 pobjeda i 0 poraza!");
 
             Console.WriteLine(" x | x | 0 ");
             Console.WriteLine("   | 0 |   ");

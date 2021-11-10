@@ -11,7 +11,7 @@ namespace TicTacToe3
 
             Console.WriteLine(" x | 0 | x ");
             Console.WriteLine("   | 0 |   ");
-            Console.WriteLine("   |   |   ");
+            Console.WriteLine("  x|   |   ");
         }
     }
 }
